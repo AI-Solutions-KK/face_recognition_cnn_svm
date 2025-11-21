@@ -1,0 +1,10 @@
+streamlit
+opencv-python
+numpy
+pandas
+scikit-learn
+torch
+torchvision
+facenet-pytorch
+Pillow
+joblib
