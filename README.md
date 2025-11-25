@@ -116,7 +116,7 @@ The app automatically downloads model + dataset.
 
 ## Full Training Code
 All training, cleaning, model building & evaluation:
-👉 **https://github.com/AI-Solutions-KK/face_recognition_cnn_svm**
+👉 **https://github.com/AI-Solutions-KK/face_recognition_model_domain_specific.git**
 
 ---
 
