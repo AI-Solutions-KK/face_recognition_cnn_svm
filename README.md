@@ -133,6 +133,8 @@ tags:
 datasets:
   - AI-Solutions-KK/face_recognition_demo_dataset
 ---
+# INSTRUCTIONS FOR USE
+
 # 🧠 Face Recognition Model (CNN Embeddings + SVM)
 
 **Domain-specific face recognition model** using:
